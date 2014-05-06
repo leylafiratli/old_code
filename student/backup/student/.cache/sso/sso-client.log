@@ -1,0 +1,30 @@
+2013-08-21 21:47:56,152:152.683019638 - ubuntu_sso.main - INFO - Setting up Ubuntu SSO service.
+2013-08-21 21:47:56,162:162.172079086 - ubuntu_sso.main - INFO - Ubuntu SSO service started.
+2013-08-21 21:47:56,162:162.282943726 - ubuntu_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntu.com/api/1.0/'
+2013-08-21 21:49:44,910:910.002946854 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Ubuntu Software Center'), result is {}? True
+2013-08-21 21:49:44,930:930.979967117 - ubuntu_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Ubuntu Software Center'),) and kwargs {}
+2013-08-21 21:49:54,944:944.138050079 - ubuntu_sso.main - INFO - Shutting down, calling <function shutdown_func at 0x3019668>.
+2013-08-21 21:54:47,829:829.880952835 - ubuntu_sso.main - INFO - Setting up Ubuntu SSO service.
+2013-08-21 21:54:47,864:864.497900009 - ubuntu_sso.main - INFO - Ubuntu SSO service started.
+2013-08-21 21:54:47,864:864.656925201 - ubuntu_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntu.com/api/1.0/'
+2013-08-21 21:54:48,148:148.713111877 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Ubuntu Software Center'), result is {}? True
+2013-08-21 21:54:48,151:151.622056961 - ubuntu_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Ubuntu Software Center'),) and kwargs {}
+2013-08-21 21:54:58,163:163.87796402 - ubuntu_sso.main - INFO - Shutting down, calling <function shutdown_func at 0x13cd668>.
+2013-08-21 21:59:47,321:321.038961411 - ubuntu_sso.main - INFO - Setting up Ubuntu SSO service.
+2013-08-21 21:59:47,338:338.449001312 - ubuntu_sso.main - INFO - Ubuntu SSO service started.
+2013-08-21 21:59:47,338:338.629007339 - ubuntu_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntu.com/api/1.0/'
+2013-08-21 21:59:47,502:502.687931061 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Ubuntu Software Center'), result is {}? True
+2013-08-21 21:59:47,502:502.883911133 - ubuntu_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Ubuntu Software Center'),) and kwargs {}
+2013-08-21 21:59:57,514:514.138936996 - ubuntu_sso.main - INFO - Shutting down, calling <function shutdown_func at 0x15ab668>.
+2013-08-21 22:16:45,842:842.452049255 - ubuntu_sso.main - INFO - Setting up Ubuntu SSO service.
+2013-08-21 22:16:45,855:855.835914612 - ubuntu_sso.main - INFO - Ubuntu SSO service started.
+2013-08-21 22:16:45,855:855.946063995 - ubuntu_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntu.com/api/1.0/'
+2013-08-21 22:16:45,956:956.156015396 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Ubuntu Software Center'), result is {}? True
+2013-08-21 22:16:45,956:956.3601017 - ubuntu_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Ubuntu Software Center'),) and kwargs {}
+2013-08-21 22:16:55,967:967.335939407 - ubuntu_sso.main - INFO - Shutting down, calling <function shutdown_func at 0x2f12668>.
+2013-08-21 22:21:46,636:636.112928391 - ubuntu_sso.main - INFO - Setting up Ubuntu SSO service.
+2013-08-21 22:21:46,645:645.946979523 - ubuntu_sso.main - INFO - Ubuntu SSO service started.
+2013-08-21 22:21:46,646:646.106004715 - ubuntu_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntu.com/api/1.0/'
+2013-08-21 22:21:46,661:661.809921265 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Ubuntu Software Center'), result is {}? True
+2013-08-21 22:21:46,661:661.997079849 - ubuntu_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Ubuntu Software Center'),) and kwargs {}
+2013-08-21 22:21:56,672:672.889947891 - ubuntu_sso.main - INFO - Shutting down, calling <function shutdown_func at 0x24d9668>.

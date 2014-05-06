@@ -1,0 +1,20 @@
+#ifndef DECK_H
+#define DECK_H
+
+#include "card.h"
+#include <vector>
+
+using namespace std;
+
+class Deck {
+ public:
+  Deck();
+  void shuffle();
+  void cut();
+  Card getTop();
+  void printDeck();
+ private:
+  vector<Card>_cards;
+};
+
+#endif

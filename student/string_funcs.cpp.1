@@ -1,0 +1,48 @@
+#include <string>
+
+using namespace std;
+
+int strlen(char str[]);
+void strcpy(char dst[], char src[]);
+
+int main(int argc, char *argv[])
+{
+  string s;
+
+  char mystr[51];
+  char copiedstr[51];
+  cout << "Enter a string of less than 50 characters" << endl;
+  getline(cin, s);
+//cin>>mystr;
+  cout << "Length of provided string is " << strlen(mystr) << endl;
+  strcpy(copiedstr,s.c_str());
+  cout << "Copied string is\n" << copiedstr << endl;
+  return 0;
+}
+
+int strlen(char str[])
+{
+  int i = 0;
+  while(str[i])
+  {
+	i++;
+  }
+  return i;
+
+}
+
+void strcpy(char dst[], char src[])
+{
+  int i;
+
+  int len = strlen(src);
+
+  for(i=0; i<len; i++)
+  {
+	dst[i] = src[i];
+  }
+
+  dst[i] = '\0';
+
+}
+}

@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<title>USC Ming Hsieh Department of Electrical Engineering - Site Home </title>
+
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/css/screena.css" media="screen">
+<!--[if lte IE 7]><link rel="stylesheet" href="/css/ie7.css" media="screen"/><![endif]-->
+<link rel="stylesheet" href="/css/print.css" media="print"> 
+
+<script type="text/javascript">
+// <![CDATA[
+var themeRootDirectory = "";
+// ]]>
+</script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/scripts/jquery1.7.2.js"><\\/script>')</script>
+<script src="/scripts/common.js"></script>
+<!--[if lte IE 6]>
+<script src="/scripts/supersleight.js"></script>
+<![endif]-->
+</head>
+
+<body>
+
+<div id="masthead"><div class="inner">
+    <a href="http://www.usc.edu" target="_blank" id="logo-usc" title="Click here to visit the USC Web site [External]"><img src="/images/logo-usc.png" width="216" height="51" alt="Logo: University of Southern California"/></a>
+</div></div><!-- Ends: #MASTHEAD/.INNER -->
+
+<div id="header">
+<div class="viterbi-logo">
+<div style="background:#900">
+<div id="viterbi-logo"><a href="http://viterbi.usc.edu/" id="logo-viterbi" title="Click here to return to the Viterbi homepage"><img src="/images/logo-viterbi.png" alt="Logo: The USC Andrew and Erna Viterbi School of Engineering"/></a>
+<a href="/index.php" id="logo-dept" title="Return to homepage"><img src="/images/logo-dept.png" alt="Homepage"/></a></div>
+</div>
+<div id="search-social">
+    <ul id="social">
+        <li><a href="https://twitter.com/USCMingHsiehEE" target="_blank" class="icon icon-twitter" title="Click here to follow us on Twitter [External]">Twitter<span>&nbsp;</span></a></li>
+        <li><a href="https://www.facebook.com/USCMingHsiehEE" class="icon icon-facebook" target="_blank" title="Click here to friend us on Facebook [External]">Facebook<span>&nbsp;</span></a></li>
+        
+<li><a href="cid:372003 not found. Make sure cid is correct and object is live." class="icon icon-plus" title="Click here to view our Social Media page">Social Media<span>&nbsp;</span></a></li>
+    </ul>
+<form action="/tools/search/" method="get">
+        <fieldset>
+            <legend>Please enter your search term and submit the form</legend>
+            <input type="hidden" name="hq" value="site:ee.usc.edu" />
+            <input type="image" src="/images/btn-search.png" class="submit" id="header_search_submit" name="header_search_submit" title="Click here to submit the form"/> 
+            <input type="text" class="input" id="header_search_input" name="q"/>
+        </fieldset>
+    </form>
+<br class="clear" />
+</div>
+    <table id="nav">
+    <tr>
+                                                            
+             <td class="on"><a href="/" class="on"><span>Home</span></a></td>
+           
+                                                    
+             <td><a href="/about/"><span>About</span></a></td>
+           
+                                                                    
+             <td><a href="/academics/"><span>Academics</span></a></td>
+           
+                                                                    
+             <td><a href="/research/"><span>Research</span></a></td>
+           
+                                                                    
+             <td><a href="/news/"><span>News & Events</span></a></td>
+           
+                                                                    
+             <td><a href="/faculty_staff/"><span>People</span></a></td>
+           
+                                                                    
+             <td><a href="/students/"><span>Student Resources</span></a></td>
+           
+                                                                    
+             <td><a href="/admission/"><span>Admissions</span></a></td>
+           
+                                                                    
+             <td><a href="/alumni/"><span>Alumni &amp; Friends</span></a></td>
+           
+                                    </tr>
+</table><!-- Ends: #NAV --></div></div><!-- Ends: #HEADER/.INNER -->
+<div id="container"><div class="inner">
+
+        <div class="lib-gallery" id="h-feature">
+<table style="width:100%;" border="0" cellspacing="0" cellpadding="0">
+<tr><td><div class="contentDetail"><iframe width="750" height="430" scrolling="no" seamless="seamless" frameborder="0" src="http://vsoewebhosting.vsoe.usc.edu/image_sliders/ee"></iframe></div></td></tr><tr><td><div class="contentDetail"><hr />
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+        <tr>
+            <td valign="top">
+            <p><b>Quick Links</b></p>
+            <p><a href="http://mhi.usc.edu/" target="_blank">Ming Hsieh Institute</a></p>
+            <p><a href="/about/open_positions.htm" target="_blank">Open Faculty Positions</a></p>
+            </td>
+            <td valign="top">
+            <p><b>Address</b><br />
+            Ming Hsieh Department of Electrical Engineering<br />
+            University of Southern California<br />
+            3740 McClintock Avenue, EEB 100<br />
+            Los Angeles, CA 90089-2560</p>
+            </td>
+            <td valign="top">
+            <p><b>Contact</b><br />
+            Tel: (213) 821-2351<br />
+            Email: <a href="mailto:info@ee.usc.edu">info@ee.usc.edu</a></p>
+            </td>
+            <td valign="top">
+            <p><b>Direction</b><br />
+            <a href="https://maps.google.com/maps/ms?msid=209833240290003349099.0004d85d0796afdba9cd4&amp;msa=0&amp;ll=34.020409,-118.290025&amp;spn=0.011863,0.018389" target="_blank">Google Maps</a><br />
+            <a href="https://maps.google.com/maps/ms?msid=209833240290003349099.0004d85d0796afdba9cd4&amp;msa=0&amp;ll=34.020409,-118.290025&amp;spn=0.011863,0.018389"><img src="/assets/001/82635.png" alt="map" /></a></p>
+            </td>
+        </tr>
+    </tbody>
+</table></div></td></tr></table>
+    </div><!-- Ends: #H-FEATURE -->
+
+    <div class="layout-3col clearfix" id="h-cols">
+    
+        <div class="col col1">
+            <a href="news"><h2 class="h1">NEWS</h2></a>
+
+<ul class="list-date">
+                                	
+        	
+        <li>
+                        <a href="https://vimeo.com/80116220" target="_blank"><img src="
+http://viterbi.usc.edu/assets/169/89024.jpg" width="157" alt="Meet USC Viterbi's Newest Faculty "/></a> 
+            <a href="https://vimeo.com/80116220" target="_blank"><strong>Meet USC Viterbi's Newest Faculty </strong></a>
+                                    Hear from our new faculty about their game-changing research goals and why they chose to join the USC Viterbi family!<br/>
+            <small>December 04, 2013</small>
+
+
+
+
+        </li>
+    
+                                	
+        	
+        <li>
+                        <a href="http://www.scpr.org/blogs/economy/2013/11/19/15227/la-auto-show-offers-a-view-of-the-future-at-the-co/?slide=1" target="_blank"><img src="
+http://viterbi.usc.edu/assets/168/88956.jpeg" width="157" alt="KPCC: FASTPITCH Competition at LA Auto Show"/></a> 
+            <a href="http://www.scpr.org/blogs/economy/2013/11/19/15227/la-auto-show-offers-a-view-of-the-future-at-the-co/?slide=1" target="_blank"><strong>KPCC: FASTPITCH Competition at LA Auto Show</strong></a>
+                                    Cyrus Shahabi pitches ClearPath, a traffic navigation solution<br/>
+            <small>November 26, 2013</small>
+
+
+
+
+        </li>
+    
+                                	
+        	
+        <li>
+                        <a href="http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2013_11_15/science.opms.r1300139" target="_blank"><img src="
+http://viterbi.usc.edu/assets/168/88908.jpeg" width="157" alt="Science Magazine: Science Careers Booming in China"/></a> 
+            <a href="http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2013_11_15/science.opms.r1300139" target="_blank"><strong>Science Magazine: Science Careers Booming in China</strong></a>
+                                    Alumnus Ming Li drawn back to China for career and family<br/>
+            <small>November 25, 2013</small>
+
+
+
+
+        </li>
+    
+        </ul>        </div><!-- Ends: .COL1 -->
+        
+        <div class="col col2">
+            <div class="contentDetail"><link rel="stylesheet" type="text/css" href="css/font-awesome/css/font-awesome.css"/>
+<style>
+ul.home_events { margin-left:0; }
+ul.home_events p { margin:0; }
+ul.home_events li, .col-list li{list-style:none;margin-bottom:10px;}
+span.grey{color:#777;}
+</style>
+<a href="/news/calendar.htm"><h2 class="h1">EVENTS</h2></a><ul class="home_events"><li><p><i class="icon-comments" title="Conferences, Lectures, & Seminars"></i> <a href="http://viterbi.usc.edu/news/events/?event=10645" target="_blank">12/06 - 03:30 PM-05:00 PM</a></p><p><strong>Integrated Systems Seminar Series</strong> Speaker:  Babak Parviz, Google Inc
+
+Talk Title: Google Glass, why and why now?  
+
+Series: Integrated Systems Seminar Series
+
+Abstract:...</p><span class="grey">EEB EEB 248</span></li></ul><h3><a href="news/calendar.htm">Ming Hsieh Department Calendar</a></h3>
+</div>        </div><!-- Ends: .COL2 -->
+        
+        <div class="col col3">
+            <div class="contentDetail"><h2 class="h1">Highlights</h2></div><div>
+<h4></h4>
+
+<ul>
+        </ul>
+<div>No Items</div>
+</div>        </div><!-- Ends: .COL3 -->
+        
+    </div><!-- Ends: .LAYOUT-4COL -->    
+</div></div><!-- Ends: #CONTAINER/.INNER -->
+    
+<div id="footer"><div class="inner">
+    
+    <ul id="footernav">
+                                                        
+            <li>Site Home</li>
+        
+                                                    
+            <li><a href="/about/">About</a> | </li>
+        
+                                                                    
+            <li><a href="/faculty_staff/">Faculty &amp; Staff</a> | </li>
+        
+                                                                    
+            <li><a href="/research/">Research</a> | </li>
+        
+                                                                    
+            <li><a href="/news/">News</a> | </li>
+        
+                                                                    
+            <li><a href="/admission/">Prospective Students</a> | </li>
+        
+                                                                    
+            <li><a href="/students/">Current Students</a> | </li>
+        
+                                                                    
+            <li><a href="/alumni/">Alumni &amp; Friends</a> | </li>
+        
+                                        <li class="end"><a href="http://www.usc.edu/" target="_blank" title="University of Southern California">University of Southern California</a> <a href="http://viterbi.usc.edu">Viterbi School of Engineering</a></li>
+    </ul><!--// ENDS: #FOOTERNAV -->
+
+</div></div><!-- Ends: #FOOTER/.INNER -->
+<script>
+var _gaq=[['_setAccount','UA-7307942-1'],['_trackPageview']];
+(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+s.parentNode.insertBefore(g,s)}(document,'script'));    
+</script>
+</body>
+</html>

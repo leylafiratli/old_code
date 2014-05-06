@@ -1,0 +1,161 @@
+student@course-vm:~/pa6 $ ./social_network users_large.txt < grade_input1
+
+==============================================================================
+Enter a 1 if you would like to add a user
+Enter a 2 if you would like to add a friend connection
+Enter a 3 if you would like to remove friend connection
+Enter a 4 if you would like to list users
+Enter a 5 if you would like to list friends
+Enter a 6 if you would like a write to file
+Enter a 7 if you would like to know the distance between two users
+Enter an 8 if you would like the number of disjoint groups
+Enter a 9 if you would like to see a list of suggested friends for a user
+And anything else if you would like to exit
+==============================================================================
+Please Enter Two Names (First, Last)
+
+
+Distance: 2
+George Washington->James Polk->Barack Obama
+==============================================================================
+Enter a 1 if you would like to add a user
+Enter a 2 if you would like to add a friend connection
+Enter a 3 if you would like to remove friend connection
+Enter a 4 if you would like to list users
+Enter a 5 if you would like to list friends
+Enter a 6 if you would like a write to file
+Enter a 7 if you would like to know the distance between two users
+Enter an 8 if you would like the number of disjoint groups
+Enter a 9 if you would like to see a list of suggested friends for a user
+And anything else if you would like to exit
+==============================================================================
+Please Enter Two Names (First, Last)
+
+
+Distance: 2
+Abraham Lincoln->Andrew Johnson->Harry Truman
+==============================================================================
+Enter a 1 if you would like to add a user
+Enter a 2 if you would like to add a friend connection
+Enter a 3 if you would like to remove friend connection
+Enter a 4 if you would like to list users
+Enter a 5 if you would like to list friends
+Enter a 6 if you would like a write to file
+Enter a 7 if you would like to know the distance between two users
+Enter an 8 if you would like the number of disjoint groups
+Enter a 9 if you would like to see a list of suggested friends for a user
+And anything else if you would like to exit
+==============================================================================
+Please Enter Two Names (First, Last)
+
+
+Distance: 2
+Calvin Coolidge->Andrew Jackson->Gerald Ford
+==============================================================================
+Enter a 1 if you would like to add a user
+Enter a 2 if you would like to add a friend connection
+Enter a 3 if you would like to remove friend connection
+Enter a 4 if you would like to list users
+Enter a 5 if you would like to list friends
+Enter a 6 if you would like a write to file
+Enter a 7 if you would like to know the distance between two users
+Enter an 8 if you would like the number of disjoint groups
+Enter a 9 if you would like to see a list of suggested friends for a user
+And anything else if you would like to exit
+==============================================================================
+Please Enter a Name (First, Last)
+
+Suggested Friends: 
+James Monroe	1
+Martin VanBuren	1
+William Harrison	1
+Zachary Taylor	1
+Franklin Pierce	1
+Andrew Johnson	1
+James Garfield	1
+Warren Harding	1
+Herbert Hoover	1
+Dwight Eisenhower	1
+Gerald Ford	1
+Bill Clinton	1
+Barack Obama	1
+==============================================================================
+Enter a 1 if you would like to add a user
+Enter a 2 if you would like to add a friend connection
+Enter a 3 if you would like to remove friend connection
+Enter a 4 if you would like to list users
+Enter a 5 if you would like to list friends
+Enter a 6 if you would like a write to file
+Enter a 7 if you would like to know the distance between two users
+Enter an 8 if you would like the number of disjoint groups
+Enter a 9 if you would like to see a list of suggested friends for a user
+And anything else if you would like to exit
+==============================================================================
+Please Enter a Name (First, Last)
+
+Suggested Friends: 
+John Adams	2
+JohnQ Adams	2
+==============================================================================
+Enter a 1 if you would like to add a user
+Enter a 2 if you would like to add a friend connection
+Enter a 3 if you would like to remove friend connection
+Enter a 4 if you would like to list users
+Enter a 5 if you would like to list friends
+Enter a 6 if you would like a write to file
+Enter a 7 if you would like to know the distance between two users
+Enter an 8 if you would like the number of disjoint groups
+Enter a 9 if you would like to see a list of suggested friends for a user
+And anything else if you would like to exit
+==============================================================================
+Please Enter a Name (First, Last)
+
+Suggested Friends: 
+Andrew Johnson	2
+==============================================================================
+Enter a 1 if you would like to add a user
+Enter a 2 if you would like to add a friend connection
+Enter a 3 if you would like to remove friend connection
+Enter a 4 if you would like to list users
+Enter a 5 if you would like to list friends
+Enter a 6 if you would like a write to file
+Enter a 7 if you would like to know the distance between two users
+Enter an 8 if you would like the number of disjoint groups
+Enter a 9 if you would like to see a list of suggested friends for a user
+And anything else if you would like to exit
+==============================================================================
+Please Enter a Name (First, Last)
+
+Suggested Friends: 
+Warren Harding	3
+==============================================================================
+Enter a 1 if you would like to add a user
+Enter a 2 if you would like to add a friend connection
+Enter a 3 if you would like to remove friend connection
+Enter a 4 if you would like to list users
+Enter a 5 if you would like to list friends
+Enter a 6 if you would like a write to file
+Enter a 7 if you would like to know the distance between two users
+Enter an 8 if you would like the number of disjoint groups
+Enter a 9 if you would like to see a list of suggested friends for a user
+And anything else if you would like to exit
+==============================================================================
+Please Enter a Name (First, Last)
+
+Suggested Friends: 
+Andrew Johnson	2
+Woodrow Wilson	2
+==============================================================================
+Enter a 1 if you would like to add a user
+Enter a 2 if you would like to add a friend connection
+Enter a 3 if you would like to remove friend connection
+Enter a 4 if you would like to list users
+Enter a 5 if you would like to list friends
+Enter a 6 if you would like a write to file
+Enter a 7 if you would like to know the distance between two users
+Enter an 8 if you would like the number of disjoint groups
+Enter a 9 if you would like to see a list of suggested friends for a user
+And anything else if you would like to exit
+==============================================================================
+Goodbye...
+
